@@ -1,4 +1,4 @@
 # capstoneproject
 
 pi
-![](../pics/pi simulation.gif)
+![](../pics/pi-simulation.gif)
