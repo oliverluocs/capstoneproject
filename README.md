@@ -1,4 +1,4 @@
 # capstoneproject
 
 pi
-![](https://github.com/oliverluocs/capstoneproject/blob/main/pics/pi-simulation.gif)
+![](https://github.com/oliverluocs/capstoneproject/pics/pi-simulation.gif)
